@@ -1,7 +1,5 @@
 # Arabianchain.org
 
-Beautiful super modern website for ArabianChain company and project [DUBXCOIN](https://github.com/DUBXCOIN/go-dubxcoin).
-
 ## Screenshots
 
 ![Ac1](https://kroki.s3.us-west-2.amazonaws.com/ac1_optimized.png)
